@@ -64,6 +64,3 @@ To develop a predictive model that can:
 > The model shows good performance in identifying potential lung cancer cases based on symptoms and lifestyle patterns.
 
 ---
-
-## 📂 Project Structure
-
